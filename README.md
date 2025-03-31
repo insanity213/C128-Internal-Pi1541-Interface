@@ -12,3 +12,4 @@ You can hook an OLED directly up to the i2c pins of the Pi (Pins 3 and 5) and ge
 
 Also can use a rotary encoder hooked up to the same pins you would use for buttons 1, 2 and 3 (13, 15 and 16) and get 5v power from anywhere on the system.
 
+More details in this video: https://www.youtube.com/watch?v=03nTOVLJRRc
